@@ -1,4 +1,4 @@
-# projectphase1
+# IMDB MOVIE DATA ANALYSIS
 1. INTRODUCTION<br>
 
 In this project,Microsoft was launching a new movie studio and i had to make recommendations to the stake holders.
